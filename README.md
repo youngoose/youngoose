@@ -1,6 +1,9 @@
 <h1> Hi, I'm Eddy </h1>
 <h2> I love full-stack development since I gained different skill sets such as Angular, React, Java, C#, Node, and AWS from school, personal projects, and professional industries. </h2>
 
+<h2> What I'm Focusing on these days 👨‍💻 </h2>
+https://www.freecodecamp.org/youngoose
+
 <h2> My tech stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
