@@ -15,7 +15,13 @@ https://www.freecodecamp.org/youngoose
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-<br/>
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=youngoose&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngoose&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <h2>Projects</h2>
 <table>
