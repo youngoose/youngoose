@@ -1,5 +1,4 @@
 <h1> Hi, I'm Eddy </h1>
-<h2> I love full-stack development since I gained different skill sets such as Angular, React, Java, C#, Node, and AWS from school, personal projects, and professional industries. </h2>
 
 <h2> What I'm Focusing on these days 👨‍💻 </h2>
 https://www.freecodecamp.org/youngoose
@@ -13,10 +12,8 @@ https://shielded-fortress-83626.herokuapp.com
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 #### Development Stuffs:
 
