@@ -1,6 +1,6 @@
 <h1> Hi, I'm Eddy </h1>
 
-<h2> What I'm Focusing on these days 👨‍💻 </h2>
+<h2> FreeCodeCamp 👨‍💻 </h2>
 https://www.freecodecamp.org/youngoose
 
 <h2> Portfolio 💻 </h2>
