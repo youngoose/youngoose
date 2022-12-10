@@ -3,9 +3,6 @@
 <h2> FreeCodeCamp 👨‍💻 </h2>
 https://www.freecodecamp.org/youngoose
 
-<h2> Portfolio 💻 </h2>
-https://shielded-fortress-83626.herokuapp.com
-
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
