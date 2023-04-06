@@ -1,4 +1,7 @@
 <h1> Hi, I'm Eddy </h1>
+* Proficient - Angular, TypeScript, React, ES6, Jenkins
+<br>
+* Experienced - Java, Node/Express, .Net, PHP, SQL
 
 <h2> FreeCodeCamp 👨‍💻 </h2>
 https://www.freecodecamp.org/youngoose
