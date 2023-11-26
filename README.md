@@ -1,5 +1,5 @@
 <h1> Hi, I'm Eddy </h1>
-* Proficient - Angular, TypeScript, React, ES6, Jenkins
+* Proficient - Angular, TypeScript, React, ES6, Jenkins, TailwindCSS
 <br>
 * Experienced - Java, Node/Express, .Net, PHP, SQL
 
